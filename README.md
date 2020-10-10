@@ -1,7 +1,7 @@
 # Quora-User-Answer-Scraper
 Enter a Quora Username and this program will fetch all the answers ever given by that user in a Text file.
 
-#### Note : Requires Chrome Browser installed.
+#### Note : Requires Chrome Browser to be installed on your Device.
 
 ## Steps :
 * Run main.py
